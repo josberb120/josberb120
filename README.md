@@ -32,9 +32,15 @@ I enjoy building web applications, desktop software with C#, and learning new te
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josberb120&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josberb120&theme=github_dark" />
+
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josberb120&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josberb120&theme=github_dark" />
+
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josberb120&theme=github_dark&utcOffset=-4" />
 </p>
 
 <p align="center">
