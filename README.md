@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Web+Developer;C%23+Developer;Building+Modern+Interfaces;Always+Learning+New+Technologies" />
+</p>
+
 <h1 align="center">JOSBER BETANCOURT</h1>
 
 <p align="center">
@@ -62,15 +66,15 @@ I enjoy building web applications, desktop software with C#, and learning new te
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/TUUSUARIO">
+  <a href="https://github.com/josberb120">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com/in/TULINK">
+  <a href="https://linkedin.com">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:TUEMAIL">
+  <a href="mailto:your@email.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
