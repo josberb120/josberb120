@@ -34,11 +34,11 @@ I enjoy building web applications, desktop software with C#, and learning new te
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josberb120&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=josberb120&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 </p>
 
 ---
